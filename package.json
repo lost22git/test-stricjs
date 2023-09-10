@@ -1,0 +1,15 @@
+{
+  "name": "test-stricjs",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stricjs/router": "^4.1.7",
+    "@stricjs/utils": "^1.4.9"
+  }
+}
